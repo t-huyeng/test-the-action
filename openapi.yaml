@@ -2,7 +2,7 @@ openapi: "3.0.0"
 info:
   contact:
     url: "https://www.pegelonline.wsv.de/"
-    name: "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (WSV)"
+    name: "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (WSV) rer"
   version: "1.0.0"
   x-office: "Wasserstraßen- und Schifffahrtsverwaltung"
   title: "Pegel-Online API"
