@@ -29,5 +29,5 @@ jobs:
       - name: Run a one-line script
         uses: t-huyeng/action-annotation-test@latest
         with:
-          openapi: openapi.yaml
+          openapi: ./openapi.yaml
 
