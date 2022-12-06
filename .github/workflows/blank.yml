@@ -28,4 +28,6 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         uses: t-huyeng/action-annotation-test@latest
+        with:
+          openapi: openapi.yaml
 
