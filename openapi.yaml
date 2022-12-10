@@ -1,8 +1,8 @@
 openapi: "3.0.0"
 info:
-  description: "API des Deutschen Wetterdienstes (DWD) aus der DWD App.
+  description: "test API des Deutschen Wetterdienstes (DWD) aus der DWD App.
 <br><br>
-Neben unterschiedlichen Wetterwarnungen (s.u.) lassen sich unter
+Neben unterschiedlichen Wetterwarnungen (s.u.) lassen sich unter 
 [/dwd.api.proxy.bund.dev/v30/stationOverviewExtended](/dwd.api.proxy.bund.dev/v30/stationOverviewExtended) nach Angabe des Parameters *stationIDs* (z.B. 'G005')
 auch die Wetterdaten ausgewÃ¤hlter Wetterstationen anfordern (wobei die sog. 'Stationskennung' des DWD anzugeben ist). 
 <br><br>
